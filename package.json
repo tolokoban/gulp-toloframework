@@ -1,0 +1,31 @@
+{
+  "name": "gulp-toloframework",
+  "version": "0.0.1",
+  "description": "Gulp plugin for the ToloFrameWork.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolokoban/gulp-toloframework.git"
+  },
+  "keywords": [
+    "gulp",
+    "toloframework",
+    "tfw",
+    "tolokoban",
+    "html",
+    "firefoxos",
+    "fxos"
+  ],
+  "author": "Tolokoban",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tolokoban/gulp-toloframework/issues"
+  },
+  "homepage": "https://github.com/tolokoban/gulp-toloframework#readme",
+  "devDependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
