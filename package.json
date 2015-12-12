@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/tolokoban/gulp-toloframework#readme",
   "devDependencies": {
+    "esprima": "^2.7.1",
     "jasmine": "^2.3.2"
   }
 }
